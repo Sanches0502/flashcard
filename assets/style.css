@@ -72,9 +72,9 @@
     font-style: italic;
   }
   body {
-    background-color:bisque;
-    font-family: Bai janjuree;
-  }
+    background: url('img/bg-desktop.webp');
+    font-family: Bai Jamjuree;
+}
   footer {
     background-color: black;
     color: white;
