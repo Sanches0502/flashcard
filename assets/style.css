@@ -80,6 +80,9 @@
     background: url('img/bg-desktop.webp');
     font-family: Bai Jamjuree;
 }
+.cartao:hover .cartao__conteudo {
+    transform: rotateY(180deg);
+}
   footer {
     background-color: black;
     color: white;
